@@ -1,0 +1,9 @@
+body{
+  background-color: sandybrown;
+  font-family:"Bebas Neue", sans-serif;
+  text-align: center;
+  display: "block"
+}
+button{
+  background-color: yellow;
+}
