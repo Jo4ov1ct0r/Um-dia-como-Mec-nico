@@ -2,8 +2,20 @@ body{
   background-color: sandybrown;
   font-family:"Bebas Neue", sans-serif;
   text-align: center;
-  display: "block"
+  display: "block";
+  align-items: "center";
+  height: "700px";
 }
 button{
   background-color: yellow;
+  font-family:"Bebas Neue", sans-serif;
+}
+.passo{
+  display: none;
+}
+.passo.ativo{
+  display:block;
+}
+img{
+  width: 250px;
 }
